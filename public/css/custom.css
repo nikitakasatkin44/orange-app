@@ -1,0 +1,17 @@
+/*tr:hover {*/
+    /*background-color: #EF8D05;*/
+/*}*/
+
+
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #EF8D05;
+}
+
+.img-fluid {
+    height: 350px;
+}
+
+.masthead span {
+    color: #EF8D05
+}

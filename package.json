@@ -1,0 +1,19 @@
+{
+  "name": "tensor-app",
+  "version": "1.0.0",
+  "description": "simple site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitakasatkin44/test001.git"
+  },
+  "author": "Nikita Kasatkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitakasatkin44/test001/issues"
+  },
+  "homepage": "https://github.com/nikitakasatkin44/test001#readme"
+}
