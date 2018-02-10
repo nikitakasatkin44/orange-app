@@ -1,19 +1,24 @@
 {
-  "name": "tensor-app",
+  "name": "orange-app",
   "version": "1.0.0",
   "description": "simple site",
   "main": "app.js",
   "scripts": {
+    "deploy": "gcloud app deploy",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikitakasatkin44/test001.git"
+    "url": "git+https://github.com/nikitakasatkin44/orange-app.git"
   },
   "author": "Nikita Kasatkin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nikitakasatkin44/test001/issues"
+    "url": "https://github.com/nikitakasatkin44/orange-app/issues"
   },
-  "homepage": "https://github.com/nikitakasatkin44/test001#readme"
+  "homepage": "https://github.com/nikitakasatkin44/orange-app#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  }
 }
